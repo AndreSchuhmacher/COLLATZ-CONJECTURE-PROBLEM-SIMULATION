@@ -24,7 +24,8 @@ bool isEven(int num)
 
 int input;
 
-int main(){
+int main()
+{
 
     // Get user input
     printf("Please input a valid number: \n");
