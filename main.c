@@ -5,9 +5,7 @@
 */
 
 #include <stdio.h>
-
 #include <stdbool.h>
-
 #include <Windows.h>
 
 bool isEven(int num) {
